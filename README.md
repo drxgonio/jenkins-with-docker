@@ -34,3 +34,22 @@ This screen means that a password has been generated in the container’s /var/j
 
 Open finder -> Select Go -> Select Home... In this here.. you can see folder Jenkins and get password in here.
 Jenkins/secrets and open file initialAdminPassword.
+
+## Plugins
+
+This screen is used to select the plugins we want to install with Jenkins. There are two options:
+
+Suggest suggested plugins
+Select plugins to install.
+You can choose as you wish. For the sake of simplicity, here I will select the Install suggested plugins. Below are the plugins that Jenkins will install.
+
+After installing the plugins, Jenkins will ask us to install the admin account:
+username: triphan
+password: 2105
+confirm-password:2105
+Fullname: Tri Phan
+Email: vantriphan2105@gmail.com
+
+Next, you click button Save & Finish
+
+Finally, you can start use Jenkins.
