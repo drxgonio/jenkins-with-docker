@@ -53,3 +53,7 @@ Email: vantriphan2105@gmail.com
 Next, you click button Save & Finish
 
 Finally, you can start use Jenkins.
+
+
+You should install some plugin: Select Manage Jenkins -> Manage Plugins and select tab Available to install:
+GIT, MAVEN, SonarQue, Pipeline
